@@ -187,7 +187,7 @@ export class SpecGenerator extends DefaultTemplateGenerator {
       }
       const operations = operationsResult.value;
       const authApi = operations.filter((api) => !!api.data.authName);
-      if (authApi) {
+      if (authApi.length > 0) {
         authData = authApi.map((api) => api.data);
       }
     }
