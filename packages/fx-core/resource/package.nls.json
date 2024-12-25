@@ -447,7 +447,7 @@
   "core.SampleSelect.title": "Start from a sample",
   "core.SampleSelect.placeholder": "Select a sample",
   "core.SampleSelect.buttons.viewSamples": "View samples",
-  "core.addPlugin.success.vsc": "API plugin \"%s\" added to the project successfully.",
+  "core.addPlugin.success.vsc": "Action \"%s\" added to the project successfully.",
   "core.addPlugin.success": "API plugin \"%s\" added to the project successfully. View plugin manifest in \"%s\".",
   "core.addPlugin.success.viewPluginManifest": "View plugin manifest",
   "core.scaffold.warning.summary": "We have detected following issues:\n%s",
