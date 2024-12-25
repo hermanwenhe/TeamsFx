@@ -4,6 +4,17 @@
 
 > Note: This changelog only includes the changes for the pre-release versions of Teams Toolkit. For the changelog of stable versions, please refer to the [Teams Toolkit Changelog](https://github.com/OfficeDev/TeamsFx/blob/dev/packages/vscode-extension/CHANGELOG.md).
 
+### December 31, 2024
+
+- **Refreshed User Interface for Getting Started Experience**: We have refreshed the user interface based on the customer voices:
+  - Cleaned up the navigation in the left pannel.
+  - Updated the Create New App dialog with a clear categories.
+  - Redeisgned the walkthrough for building Teams bots and declarative agents.
+
+- **Direct Deeplink to Business Chat for Microsoft 365 Copilot in Teams**: Now when you are debugging your declarative agent, you can easily launch it directly inside Business Chat in Teams.
+
+- **Environment Variable Support for Localization Files**: You can now add envariables for lcoalized json files easily using `{{your_env_var}}` symbol. Teams Toolkit will translate those values during local debug, provision, and publish stage.
+
 ### November 26, 2024
 
 #### New Features
