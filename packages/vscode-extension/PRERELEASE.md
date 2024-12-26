@@ -22,8 +22,6 @@
 - **Integrated Debugging for Declarative Agents**: Developers can now leverage the robust debugging capabilities within Visual Studio Code for their declarative agents. This feature allows for in-depth visualization of responses and stack traces from Microsoft 365 Copilot without exiting the Integrated Development Environment (IDE), enhancing both efficiency and ease of troubleshooting.
 ![5](https://github.com/user-attachments/assets/9945fad6-052c-47dd-be2f-b4313f814330)
 
-- **Direct Deeplink to Business Chat for Microsoft 365 Copilot in Teams**: This update enables developers to seamlessly launch their declarative agents directly into Business Chat, streamlining the debugging workflow and allowing for immediate interaction and testing of integrated capabilities.
-
 - **Regenerate Actions for Declarative Agent**: Teams Toolkit now offers the ability to regenerate actions for declarative agents by integrating with Microsoft Kiota, enabling developers to refresh the agent's capabilities and ensure that it remains up-to-date with the latest features and enhancements.
   
 #### Enhancements
