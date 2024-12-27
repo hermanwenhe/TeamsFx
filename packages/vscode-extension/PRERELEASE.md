@@ -12,15 +12,15 @@
   - A streamlined navigation layout in the left panel to improve ease of access.
     ![Getting Started Left Pane](https://github.com/user-attachments/assets/900f8215-5b97-42aa-b78f-b0d3ea7362bb)
   - An updated "Create New App" dialog with well-organized categories.
-    ![Getting Started -  Create New App](https://github.com/user-attachments/assets/fa6fa621-1089-4d3c-88a2-d08bfc94d2b6)
+    ![Getting Started -  Create New App (1)](https://github.com/user-attachments/assets/04e93fc2-676a-441a-be5f-dbc3315105f1)
   - Redesigned walkthrough guides for developing Teams bots and declarative agents, ensuring a seamless initiation process.
     ![Getting Started Walkthrough](https://github.com/user-attachments/assets/86eaf25a-04be-4165-9d08-360d899d7262)
 
 - **Environment Variable Support for Localization Files**: Using the `{{your_env_var}}` syntax, developers can now incorporate environment variables into their localized JSON files. Teams Toolkit automatically resolves these variables during the local debug, provision, and publish phases, ensuring that your applications adapt dynamically to different deployment environments with ease.
-![4](https://github.com/user-attachments/assets/0d01ce48-5d72-4053-8cb6-bd8dd3448d64)
+![5](https://github.com/user-attachments/assets/9945fad6-052c-47dd-be2f-b4313f814330)
 
 - **Integrated Debugging for Declarative Agents**: Developers can now leverage the robust debugging capabilities within Visual Studio Code for their declarative agents. This feature allows for in-depth visualization of responses and stack traces from Microsoft 365 Copilot without exiting the Integrated Development Environment (IDE), enhancing both efficiency and ease of troubleshooting.
-![5](https://github.com/user-attachments/assets/9945fad6-052c-47dd-be2f-b4313f814330)
+![4](https://github.com/user-attachments/assets/0d01ce48-5d72-4053-8cb6-bd8dd3448d64)
 
 - **Regenerate Actions for Declarative Agent**: Teams Toolkit now offers the ability to regenerate actions for declarative agents by integrating with Microsoft Kiota, enabling developers to refresh the agent's capabilities and ensure that it remains up-to-date with the latest features and enhancements.
   
