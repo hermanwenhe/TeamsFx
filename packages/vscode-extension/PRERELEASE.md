@@ -12,7 +12,7 @@
   - A streamlined navigation layout in the left panel to improve ease of access.
     ![Getting Started Left Pane](https://github.com/user-attachments/assets/900f8215-5b97-42aa-b78f-b0d3ea7362bb)
   - An updated "Create New App" dialog with well-organized categories.
-    ![Getting Started -  Create New App (1)](https://github.com/user-attachments/assets/04e93fc2-676a-441a-be5f-dbc3315105f1)
+    ![Getting Started -  Create New App](https://github.com/user-attachments/assets/2c86884a-88e1-44f9-9d20-848d9364e67b)
   - Redesigned walkthrough guides for developing Teams bots and declarative agents, ensuring a seamless initiation process.
     ![Getting Started Walkthrough](https://github.com/user-attachments/assets/86eaf25a-04be-4165-9d08-360d899d7262)
 
