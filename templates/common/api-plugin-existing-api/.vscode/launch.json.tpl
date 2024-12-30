@@ -29,7 +29,7 @@
             },
             "internalConsoleOptions": "neverOpen",
             "runtimeArgs": [
-                "--remote-debugging-port=9222",
+                "--remote-debugging-port=9223",
                 "--no-first-run",
                 "--user-data-dir=${env:TEMP}/copilot-chrome-user-data-dir"
             ]
@@ -90,7 +90,7 @@
             },
             "internalConsoleOptions": "neverOpen",
             "runtimeArgs": [
-                "--remote-debugging-port=9222",
+                "--remote-debugging-port=9223",
                 "--no-first-run",
                 "--user-data-dir=${env:TEMP}/copilot-chrome-user-data-dir"
             ]
