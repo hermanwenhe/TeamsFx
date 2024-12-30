@@ -4,7 +4,7 @@
 
 > Note: This changelog only includes the changes for the pre-release versions of Teams Toolkit. For the changelog of stable versions, please refer to the [Teams Toolkit Changelog](https://github.com/OfficeDev/TeamsFx/blob/dev/packages/vscode-extension/CHANGELOG.md).
 
-### December 31, 2024
+### January 07, 2025
 
 #### New Features
 
@@ -20,7 +20,7 @@
 ![5](https://github.com/user-attachments/assets/9945fad6-052c-47dd-be2f-b4313f814330)
 
 - **Integrated Debugging for Declarative Agents**: Developers can now leverage the robust debugging capabilities within Visual Studio Code for their declarative agents. This feature allows for in-depth visualization of responses and stack traces from Microsoft 365 Copilot without exiting the Integrated Development Environment (IDE), enhancing both efficiency and ease of troubleshooting.
-![4](https://github.com/user-attachments/assets/0d01ce48-5d72-4053-8cb6-bd8dd3448d64)
+![Plugin Debugger](https://github.com/user-attachments/assets/cf6b9414-a420-46a6-9cc8-edad32a4b1e1)
 
 - **Regenerate Actions for Declarative Agent**: Teams Toolkit now offers the ability to regenerate actions for declarative agents by integrating with Microsoft Kiota, enabling developers to refresh the agent's capabilities and ensure that it remains up-to-date with the latest features and enhancements.
   
